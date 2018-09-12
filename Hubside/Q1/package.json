@@ -1,0 +1,13 @@
+{
+  "name": "abbeal",
+  "version": "1.0.0",
+  "description": "Question 1",
+  "main": "q1.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jasmine": "^3.2.0"
+  },
+  "scripts": { "test": "jasmine spec/q1.js" },
+  "author": "Daniel Regis SARMENTO CAON",
+  "license": "ISC"
+}
